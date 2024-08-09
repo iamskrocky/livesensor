@@ -21,6 +21,6 @@ author = "prince",
 author_email= " iamskrocky@gmail.com",
 packages = find_packages(),
 
-install_reuires = get_requirements(),
+install_reuires = get_requirements(), # to install requirements.txt
 
 )

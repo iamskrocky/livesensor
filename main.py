@@ -13,7 +13,7 @@ def test_exception():
 
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # module controller
     try:
         test_exception()
     except Exception as e:
